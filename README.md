@@ -17,10 +17,10 @@ You can install these dependencies using pip, for example:
 pip install requests pandas json tabulate dash plotly
 ```
 
-```
+Below are the major nesseccary steps needed in order to execute this code and make a similar visualization.
 Set up the Dash application layout:
-python
-Copy code
+
+```
 app = dash.Dash(__name__)
 
 def set_up_app_layout():
