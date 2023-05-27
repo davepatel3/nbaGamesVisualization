@@ -45,7 +45,11 @@ def modify_data(df):
 
 def convert_to_df(response, cols):
     # ... implementation details ...
+ ```
+ 
 Implement the main function to update the graph based on the selected date:
+
+```
 python
 Copy code
 @app.callback(
